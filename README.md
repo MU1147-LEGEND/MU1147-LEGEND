@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mohammad Ullah (@MU1147-LEGEND)
-- 👀 I’m interested in BlockChain Technology , Dapp , and Machine Learning.
+- 👀 I’m interested in BlockChain Technology, Dapp, and Machine Learning.
 - 🌱 I’m currently learning Javascript, Python.
-- 💞️ I’m looking to collaborate on JS Developer & Python Programmer.
-- 📫 How to reach me ( fb.me/fb.mohammadullah ), ( wa.me/8801734906838 )
+- 💞️ I’m looking to collaborate as a JS Developer & Python Programmer.
+- 📫 How to reach me ( fb.me/fb.mohammadullah ), ( wa.me/8801734906838 ), ( https://www.linkedin.com/in/mohammad-ullah-68876618b )
 
 <!---
 MU1147-LEGEND/MU1147-LEGEND is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
