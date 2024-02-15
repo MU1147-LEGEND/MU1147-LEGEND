@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Mohammad Ullah
 #### I am a frontend web developer
-![I am a frontend web developer](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/367398955_1440101083499146_5464947151943216412_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=GlL8Q2JbjUkAX8pY4lj&_nc_ht=scontent.fdac7-1.fna&oh=00_AfB3KtMbrdz6qzMDI16wUrToZ0Wh_OJCd-Jqu5bgmbuoaQ&oe=65D37C71)
+![I am a frontend web developer][<img src="https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/367398955_1440101083499146_5464947151943216412_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=GlL8Q2JbjUkAX8pY4lj&_nc_ht=scontent.fdac7-1.fna&oh=00_AfB3KtMbrdz6qzMDI16wUrToZ0Wh_OJCd-Jqu5bgmbuoaQ&oe=65D37C71" width="500px" height="500px"/> ]
 
 
 Skills: HTML / CSS / TAILWIND / JS / REACT
