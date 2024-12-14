@@ -47,4 +47,4 @@ links:
 
 4. https://mu1147-legend.github.io/product-carousel (slider using vanilla code)
 
-5. https://mu1147-legend.github.io/My-small-projects/student%20attendance/attendance.py [python project]
+5. https://mu1147-legend.github.io/student%20attendance/attendance.py [python project]
