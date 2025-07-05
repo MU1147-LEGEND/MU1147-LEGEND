@@ -5,9 +5,9 @@
 Skills: HTML / CSS / TAILWIND / JS / REACT
 
 - 🔭 I’m currently working on FRONTEND 
-- 🌱 I’m currently learning REACT / PYTHON 
+- 🌱 I’m currently learning NEXTJS / PYTHON 
 - 💬 Ask me about web development 
-- ⚡ Fun fact: Programming is not easy but if you're addicted to it, it's not hard. 
+- ⚡ Fun fact: Programming is easy when you understand it. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mu1147-legend)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohammad-ullah-68876618b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/fb.mohammadullah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mohammad_ullah11/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/m_ullah32)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/mu1147)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19154369/mohammad-ullah)  
